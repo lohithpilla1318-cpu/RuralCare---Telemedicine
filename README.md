@@ -90,12 +90,6 @@ RuralCare-Telemedicine/
 
 ## ⚙️ Installation & Setup
 
-### Clone Repository
-
-```bash
-git clone https://github.com/kteja6411-a11y/RuralCare-Telemedicine.git
-```
-
 ### Install Dependencies
 
 ```bash
