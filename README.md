@@ -10,7 +10,7 @@ RuralCare is a multilingual telemedicine and medicine delivery platform designed
 ---
 
 ## 🔗 GitHub Repository
-https://github.com/kteja6411-a11y/RuralCare-Telemedicine
+https://github.com/lohithpilla1318-cpu/RuralCare---Telemedicine
 
 ---
 
