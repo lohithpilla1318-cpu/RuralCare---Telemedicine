@@ -1,0 +1,17 @@
+{
+  "name": "ruralcare-monorepo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "RuralCare - Telemedicine & Medicine Delivery Platform for Rural India",
+  "workspaces": [
+    "client",
+    "server"
+  ],
+  "scripts": {
+    "install-all": "npm install && npm install --prefix client && npm install --prefix server",
+    "dev:server": "npm run dev --prefix server",
+    "dev:client": "npm run dev --prefix client",
+    "build:server": "npm run build --prefix server",
+    "build:client": "npm run build --prefix client"
+  }
+}
